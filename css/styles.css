@@ -1,0 +1,13 @@
+.site-nav .link.current {
+  color: #000;
+}
+
+}
+.filter .filter-item {
+  background-color: #f5f4fa;
+  color: #212121;
+}
+.filter .filter-item:hover,
+.filter .filter-item:focus {
+  background-color: #2196f3;
+  color: #ffffff;
