@@ -90,7 +90,7 @@ button {
         letter-spacing: 0.64px;
 }
  .hero-btn:hover, .hero-btn:focus, .hero-btn:active {
-    color: #404BBF; 
+    background-color: #404BBF; 
 }
 .subtitle {
         font-size: 20px;
